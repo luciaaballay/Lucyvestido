@@ -1,0 +1,7 @@
+@mixin cuadrado ($fondo, $ancho, $height){
+        background-color: $fondo;
+        width: $ancho;
+        height: $height;
+        margin-top: 5px;
+        padding: 10px;
+    }
